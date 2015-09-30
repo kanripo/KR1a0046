@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 厚齋易學,厚齋易學 易外傳,厚齋易學:易輯注,厚齋易學:易輯傳
-#+DATE: 2015-09-23 09:34:34
-#+PROPERTY: JUAN 48
+# -*- mode: mandoku-view; -*-
+#+TITLE: 厚齋易學,厚齋易學:易外傳,厚齋易學:易輯注,厚齋易學:易輯傳
+#+DATE: 2015-08-24 21:55:18.036296
+#+PROPERTY: ID KR1a0046
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十八  易外傳第十六
 <pb:KR1a0046_WYG_048-1a>¶
 欽定四庫全書¶
 　厚齋易學卷四十八　　　　宋　馮椅　撰¶
@@ -776,4 +778,3 @@
 　¶
 　¶
 　厚齋易學卷四十八¶
-

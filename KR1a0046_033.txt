@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 厚齋易學,厚齋易學 易外傳,厚齋易學:易輯注,厚齋易學:易輯傳
-#+DATE: 2015-09-23 09:34:34
-#+PROPERTY: JUAN 33
+# -*- mode: mandoku-view; -*-
+#+TITLE: 厚齋易學,厚齋易學:易外傳,厚齋易學:易輯注,厚齋易學:易輯傳
+#+DATE: 2015-08-24 21:55:17.734212
+#+PROPERTY: ID KR1a0046
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十三  易外傳第一
 <pb:KR1a0046_WYG_033-1a>¶
 欽定四庫全書¶
 　厚齋易學卷三十三　　　宋　馮椅　撰¶
@@ -326,4 +328,3 @@
 　¶
 　¶
 　厚齋易學卷三十三¶
-

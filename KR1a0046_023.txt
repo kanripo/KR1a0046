@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 厚齋易學,厚齋易學 易外傳,厚齋易學:易輯注,厚齋易學:易輯傳
-#+DATE: 2015-09-23 09:34:34
-#+PROPERTY: JUAN 23
+# -*- mode: mandoku-view; -*-
+#+TITLE: 厚齋易學,厚齋易學:易外傳,厚齋易學:易輯注,厚齋易學:易輯傳
+#+DATE: 2015-08-24 21:55:17.532853
+#+PROPERTY: ID KR1a0046
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十三  易輯傳第十九
 <pb:KR1a0046_WYG_023-1a>¶
 欽定四庫全書¶
 　厚齋易學卷二十三　　　　宋　馮椅　撰¶
@@ -524,4 +526,3 @@
 　¶
 　¶
 　厚齋易學卷二十三¶
-

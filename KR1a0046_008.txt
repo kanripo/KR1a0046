@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 厚齋易學,厚齋易學 易外傳,厚齋易學:易輯注,厚齋易學:易輯傳
-#+DATE: 2015-09-23 09:34:34
-#+PROPERTY: JUAN 8
+# -*- mode: mandoku-view; -*-
+#+TITLE: 厚齋易學,厚齋易學:易外傳,厚齋易學:易輯注,厚齋易學:易輯傳
+#+DATE: 2015-08-24 21:55:17.192925
+#+PROPERTY: ID KR1a0046
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八  易輯傳第四
 <pb:KR1a0046_WYG_008-1a>¶
 欽定四庫全書¶
 　厚齋易學卷八　　　　　宋　馮椅　撰¶
@@ -643,4 +645,3 @@
 　　而自後也¶
 <pb:KR1a0046_WYG_008-36b>¶
 　　　右明六爻¶
-
